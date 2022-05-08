@@ -98,3 +98,5 @@ Assurez-vous que tous les calendriers de votre compte Google sont cochés. Vous 
 </p>
 
 Tous vos événements devraient apparaître très bien dans votre calendrier à ce stade. Si vous avez des questions, n'hésitez pas à me contacter sur le discord de ***Tech2Tech*** Ou par email : 142orm142@gmail.com
+
+test
