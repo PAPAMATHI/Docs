@@ -31,7 +31,7 @@ Si vous n'avez pas encore ajouté votre compte, appuyez sur **Ajouter un compte*
 <br>
 <p align="center">
 <br>
-    <img src="img/add.png" alt="Capture d'écrans des Compte Google" width="200"/>
+    <img src="img/add.png" alt="Capture d'écrans des Compte Google" width="300"/>
 </p>
 <br>
 
@@ -41,14 +41,14 @@ Appuyez sur **suivant** et si tout se connecte correctement, vous verrez les opt
 
 <p align="center">
     <br>
-    <img src="img/compte.png" alt="Capture d'écrans des options à importer" width="200"/>
+    <img src="img/compte.png" alt="Capture d'écrans des options à importer" width="300"/>
 </p>
 
 Si vous avez seulement besoin de synchroniser les calendriers, désactivez tout le reste. Appuyez sur **Enregistrer** et vous êtes prêt à partir. Notez que les seuls calendriers qui seront synchronisés sont ceux répertoriés sous **Mes agendas** lorsque vous accédez à calendar.google.com sur votre bureau.
 
 <p align="center">
     <br>
-    <img src="img/Calendar.jpg" alt="Capture d'écrans des calendriers" width="200"/>
+    <img src="img/Calendar.jpg" alt="Capture d'écrans des calendriers" width="300"/>
 </p>
 
 Maintenant, ouvrez l'application de calendrier sur votre téléphone et vous devriez voir tous les rendez-vous de ces calendriers répertoriés sous **Calendriers** . Avant de commencer à synchroniser les autres calendriers, permettez-moi de vous donner un dernier conseil.
@@ -57,5 +57,5 @@ Allez dans **Paramètres**, appuyez sur **Mail** puis faites défiler jusqu'à *
 
 <p align="center">
     <br>
-    <img src="img/CompteDefault.jpg" alt="Capture d'écrans des calendriers" width="200"/>
+    <img src="img/CompteDefault.jpg" alt="Capture d'écrans des calendriers" width="300"/>
 </p>
