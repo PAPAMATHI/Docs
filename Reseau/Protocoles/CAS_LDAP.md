@@ -21,9 +21,9 @@
 
 <br>
 
----
+
 ## **Présentation CAS & LDAP** <img src="https://media2.giphy.com/media/7uxeMHQkAIMBSnLWz8/giphy.gif?cid=ecf05e47ynx9oqehuntcccv5sdr426zi7e7vtuj24o49ddql&rid=giphy.gif&ct=s" alt="Fleche pour indiquer le texte" width="10"/>
----
+
 
 
 ### CAS <img src="https://media4.giphy.com/media/Wtg8Bmgul1Qxc0otod/giphy.gif?cid=ecf05e47nf8ptvqajx37asbjh0p2uylgta885q0mmvrjc7sa&rid=giphy.gif&ct=s" alt="Fleche pour indiquer le texte" width="10"/>
@@ -41,9 +41,9 @@ Le CAS est un système d’authentification unique permettant d’être authenti
 
 <br>
 
----
+
 ## **En Python** <img src="https://media2.giphy.com/media/7uxeMHQkAIMBSnLWz8/giphy.gif?cid=ecf05e47ynx9oqehuntcccv5sdr426zi7e7vtuj24o49ddql&rid=giphy.gif&ct=s" alt="Fleche pour indiquer le texte" width="10"/>
----
+
 ## ***CAS***
 
 ### **Installation :**
