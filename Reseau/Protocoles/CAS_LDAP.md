@@ -146,7 +146,7 @@ ldap.SCOPE_SUBTREE #lieu de recherche,
 ‘uid=’+session[‘CAS_USERNAME’] #filtre à partir de l’id utilisateur CAS, 
 [‘displayName’] #clé de la donnée)
 
-mail = str(votreldap.search_s(‘dc=univ-orleans,dc=fr’, ldap.SCOPE_SUBTREE, ‘uid=’+session[‘CAS_USERNAME’], [‘displayName’])
+mail = str(votreldap.search_s(‘dc="Mettre le nom de domaine",dc=fr’, ldap.SCOPE_SUBTREE, ‘uid=’+session[‘CAS_USERNAME’], [‘displayName’])
 
 ```
 
