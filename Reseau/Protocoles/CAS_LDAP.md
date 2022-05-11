@@ -28,6 +28,7 @@
 
 ### CAS <img src="https://media4.giphy.com/media/Wtg8Bmgul1Qxc0otod/giphy.gif?cid=ecf05e47nf8ptvqajx37asbjh0p2uylgta885q0mmvrjc7sa&rid=giphy.gif&ct=s" alt="Fleche pour indiquer le texte" width="10"/>
 
+Le CAS est un système d’authentification unique permettant d’être authentifié sur tous les sites utilisant le même lorsque l’on se connecte à l’un d’entre eux, permettant ainsi d’éviter une nouvelle authentification à chaque changement d’application.
 
 
 
