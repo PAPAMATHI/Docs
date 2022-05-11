@@ -34,8 +34,8 @@ Si vous n'avez pas encore ajouté votre compte, appuyez sur **Ajouter un compte*
 <p align="center">
 <br>
     <img src="img/add.png" alt="Capture d'écrans des Compte Google" width="300"/>
-</p>
 <br>
+</p>
 
 Appuyez sur **Google**, puis vous serez invité à entrer votre adresse 
 e-mail Gmail. Appuyez sur **suivant** et vous devrez entrer votre mot de passe. 
