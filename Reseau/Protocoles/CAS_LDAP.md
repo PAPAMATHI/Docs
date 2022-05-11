@@ -121,7 +121,7 @@ Une fois les imports fait, il faut initialiser le LDAP sur votre appli Flask ave
 ```python
 
 votreldap = ldap.initialize("L'adresse de l'annuaire LDAP")
-votreldap.simple_bind_s(’cn=nomdecompte,dc=univ-orleans,dc=fr’,
+votreldap.simple_bind_s(’cn=nomdecompte,dc="Mettre le nom de domaine",dc=fr’,
 ‘motdepassecompte’)
 
 ```
@@ -141,7 +141,7 @@ Une fois l’import effectué, vous pouvez utiliser la méthode comme montré ci
 
 ```python
 
-nom = str(votreldap.search_s(‘dc=univ-orleans,dc=fr’ #domaine du ldap,
+nom = str(votreldap.search_s(‘dc="Mettre le nom de domaine",dc=fr’ #domaine du ldap,
 ldap.SCOPE_SUBTREE #lieu de recherche, 
 ‘uid=’+session[‘CAS_USERNAME’] #filtre à partir de l’id utilisateur CAS, 
 [‘displayName’] #clé de la donnée)
